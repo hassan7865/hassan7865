@@ -75,7 +75,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
@@ -90,7 +89,7 @@
 <h2>Github Stats</h2>
 <p align="center">
   <a href="https://github.com/hassan7865">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassan7865&theme=radical" height="150px" width="100%" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassan7865&theme=radical" height="150px" width="100%" alt="Hassan profile Summary"/>
   </a>
 </p>
 
