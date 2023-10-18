@@ -87,16 +87,15 @@
 [![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)
 -->
 <br/>
-<hr/>
-<br/>
+<h2>Github Stats</h2>
 <p align="center">
   <a href="https://github.com/hassan7865">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassan7865&theme=radical" height="200px" width="100%" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassan7865&theme=radical" height="150px" width="100%" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
 
 <div align="center>
-    <a href="https://github.com/hassan7865"><img alt="Hassan Github Stats" src="https://camo.githubusercontent.com/c63facd16c85d0758f8e34e3347e845ba34eb5d7fe322c3f9465f57094d371cb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6769746875625f6461726b" height="200px" width="100%"/></a>
+    <a href="https://github.com/hassan7865"><img alt="Hassan Github Stats" src="https://camo.githubusercontent.com/c63facd16c85d0758f8e34e3347e845ba34eb5d7fe322c3f9465f57094d371cb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6769746875625f6461726b" height="150px" width="100%"/></a>
  <!-- <a href="https://github.com/hassan7865"><img alt="Hassan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hassan7865&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49.5%%"/></a>-->
 </div>
 <br/>
