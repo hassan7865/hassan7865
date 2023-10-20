@@ -93,9 +93,9 @@
   </a>
 </p>
 
-<div align="center>
- <!-- <a href="https://github.com/hassan7865"><img alt="Hassan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hassan7865&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49.5%%"/></a>-->
-</div>
+<p align="center
+  <a  href="https://github.com/hassan7865"><img alt="Hassan Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hassan7865&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="100%%"/></a>
+</p>
 <br/>
 
 ![Hassan Siddiqui Graph](https://github-readme-activity-graph.vercel.app/graph?username=hassan7865&custom_title=Hassan%20Siddiqui's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
