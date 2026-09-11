@@ -1,12 +1,33 @@
 # Hassan Siddiqui
 
-Full-stack developer based in Karachi. I build web applications and AI-assisted tools with TypeScript, React/Next.js, Node/Express, .NET/C#, and Python.
+**Software Engineer | AI & Healthcare Systems | RAG & LLMs | HL7/FHIR & EHR Integrations | Backend Engineering**
 
-Software Engineering background from UBIT.
+Based in Karachi, Pakistan. I build backend systems, AI features, and healthcare technology — APIs, background services, HL7/FHIR integrations, RAG/LLM pipelines, multi-tenant platforms, and real-time systems.
+
+Day-to-day: .NET, Node.js, FastAPI, React, Angular, SQL, MongoDB, cloud, and CI/CD.
 
 ---
 
-### Featured work
+### Focus areas
+
+- **AI engineering** — RAG, LLMs, vector search, agent workflows
+- **Healthcare tech** — HL7/FHIR, EHR integrations, lab/device gateways
+- **Backend systems** — APIs, multi-tenant platforms, interoperability
+
+---
+
+### Experience
+
+- **Octdaily** — Software Engineer (Jan 2026–Present): HL7 Gateway, FHIR Gateway, lab/device integrations, healthcare APIs
+- **Octdaily** — Associate Software Engineer (Feb 2024–Dec 2025): Node.js APIs, Next.js, AI-agent compliance workflows
+- **Craftech Digital** — Software Engineer (Apr 2025–Jan 2026): multi-tenant support platform, RAG LLM pipeline, embeddable chat widgets (React/Vite/Tailwind)
+- **RegCore.AI** — Full Stack Engineer (Aug 2025–Oct 2025): Node.js, Next.js, compliance AI agents
+- **laxi.ai** — Full Stack / Frontend (Mar 2025–Jul 2025): RAG for eCommerce, multi-tenant dashboards
+- **GDG on Campus UoK** — Technical Team Member (Nov 2023–Nov 2024)
+
+---
+
+### Featured projects
 
 | Project | Description |
 |---------|-------------|
@@ -14,52 +35,32 @@ Software Engineering background from UBIT.
 | [ColdCallingAgent](https://github.com/hassan7865/ColdCallingAgent) | AI cold-calling agent — API + UI |
 | [NAC_Frontend](https://github.com/hassan7865/NAC_Frontend) | NED Admission Cell admin portal — React, Vite, Redux, MUI |
 | [Artimis](https://github.com/hassan7865/Artimis) | Lead Engine — Python lead gen / intelligence pipelines |
-| [Assistify-client](https://github.com/hassan7865/Assistify-client) | Chat client dashboard — Next.js |
+| [Assistify-client](https://github.com/hassan7865/Assistify-client) | Chat client dashboard — Next.js (aligns with embeddable chat / support platform work) |
 | [SpeedyInterview](https://github.com/hassan7865/SpeedyInterview) | Interview practice web app — React, Vite, TypeScript |
-
-<p align="center">
-  <a href="https://github.com/hassan7865/PillSure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan7865&repo=PillSure&theme=transparent&hide_border=true" height="120" />
-  </a>
-  <a href="https://github.com/hassan7865/ColdCallingAgent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan7865&repo=ColdCallingAgent&theme=transparent&hide_border=true" height="120" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/hassan7865/NAC_Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan7865&repo=NAC_Frontend&theme=transparent&hide_border=true" height="120" />
-  </a>
-  <a href="https://github.com/hassan7865/Artimis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan7865&repo=Artimis&theme=transparent&hide_border=true" height="120" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/hassan7865/Assistify-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan7865&repo=Assistify-client&theme=transparent&hide_border=true" height="120" />
-  </a>
-  <a href="https://github.com/hassan7865/SpeedyInterview">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hassan7865&repo=SpeedyInterview&theme=transparent&hide_border=true" height="120" />
-  </a>
-</p>
 
 ---
 
 ### Tech stack
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![OpenAI](https://img.shields.io/badge/RAG%2FLLMs-412991?style=flat&logo=openai&logoColor=white)
+![FHIR](https://img.shields.io/badge/HL7%2FFHIR-F06529?style=flat&logo=hl7&logoColor=white)
+
+---
+
+### Education & certifications
+
+- **Karachi University** — Software Engineering (2021–2025)
+- **Certifications:** Advance React JS; FHIR Fundamentals Course
 
 ---
 
@@ -74,6 +75,6 @@ Software Engineering background from UBIT.
 
 ### Contact
 
-- Email: [m.hassan9245@gmail.com](mailto:m.hassan9245@gmail.com)
+- Email: [m.hassansiddiqui9245@gmail.com](mailto:m.hassansiddiqui9245@gmail.com)
 - LinkedIn: [hassan-siddiqui-903085270](https://www.linkedin.com/in/hassan-siddiqui-903085270)
 - GitHub: [hassan7865](https://github.com/hassan7865)
