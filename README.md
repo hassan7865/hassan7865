@@ -43,11 +43,11 @@ These are public pieces that sit next to that work — not a full portfolio, jus
 | Project | What it is |
 | --- | --- |
 | [PillSure](https://github.com/hassan7865/PillSure) | Healthcare management platform: Next.js + Express monorepo on PostgreSQL. Closest public repo to clinical product work. |
-| [StewardShipPlanRecommendation](https://github.com/hassan7865/StewardShipPlanRecommendation) | PharmD-style recommendation prototype: search and ranking over clinical-ish content with Postgres, Redis, and OpenSearch. |
-| [Assistify-client](https://github.com/hassan7865/Assistify-client) | Multi-tenant chat dashboard in Next.js — operator side of a support / RAG chat product. |
-| [Hailouchat-Widget](https://github.com/hassan7865/Hailouchat-Widget) | Embeddable React/Vite widget for dropping chat onto other sites. |
-| [ColdCallingAgent](https://github.com/hassan7865/ColdCallingAgent) | AI agent with a TypeScript API and UI — outreach / conversation flow, not healthcare, same agent pattern. |
-| [NAC_Frontend](https://github.com/hassan7865/NAC_Frontend) | Admin portal for NED Admission Cell (React, Vite, Redux, MUI) — larger production-style frontend. |
+| [PharmD-Plan-Recommender](https://github.com/hassan7865/PharmD-Plan-Recommender) | PharmD plan recommendation prototype: search and ranking over clinical-ish content with Postgres, Redis, and OpenSearch. |
+| [Assistify-Dashboard](https://github.com/hassan7865/Assistify-Dashboard) | Multi-tenant chat dashboard in Next.js — operator side of a support / RAG chat product. |
+| [Hailou-Chat-Widget](https://github.com/hassan7865/Hailou-Chat-Widget) | Embeddable React/Vite Hailou chat widget for dropping chat onto other sites. |
+| [Cold-Calling-Agent](https://github.com/hassan7865/Cold-Calling-Agent) | AI cold-calling agent with a TypeScript API and UI — outreach / conversation flow, not healthcare, same agent pattern. |
+| [NED-Admission-Cell-Frontend](https://github.com/hassan7865/NED-Admission-Cell-Frontend) | Admin portal frontend for NED Admission Cell (React, Vite, Redux, MUI) — larger production-style frontend. |
 
 ---
 
